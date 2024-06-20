@@ -41,4 +41,4 @@ Web3 Twitter is a decentralized social media platform where users can post tweet
 - [Vercel](https://vercel.com/)
 - [Hardhat](https://hardhat.org/)
 
-Thank you for checking out our project! If you have any questions or feedback, feel free to reach out.
+Thank you for checking out my project! If you have any questions or feedback, feel free to reach out at https://linkedin.com/in/nakshatra-goel.
