@@ -1,6 +1,6 @@
 # Web3 Twitter Blockchain App
 
-A decentralized Twitter-like application built using Solidity, Next.js, Sanity.io, Tailwind CSS, and deployed on Vercel. This project leverages the power of blockchain technology to provide a decentralized platform for social interaction.
+A decentralized Twitter-like application built using Solidity, Next.js, Sanity.io and Tailwind CSS. This project leverages the power of blockchain technology to provide a decentralized platform for social interaction.
 
 ## Project Overview
 
